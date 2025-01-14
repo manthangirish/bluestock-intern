@@ -1,0 +1,14 @@
+.sign-up {
+  background-color: #3f53ff;
+  color: #fff;
+  border-radius: 0;
+}
+
+.sign-in {
+  border-radius: 0;
+}
+
+.support-image {
+  rotate: -30deg;
+  padding-bottom: 5px;
+}
