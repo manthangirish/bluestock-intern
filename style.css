@@ -12,3 +12,36 @@
   rotate: -30deg;
   padding-bottom: 5px;
 }
+
+body {
+  background-color: #f6f5f5;
+  font-family: "Poppins", serif;
+  font-style: normal;
+}
+
+.rhp-button {
+  border: 1px solid #414bea;
+  color: #414bea;
+  font-weight: bold;
+}
+
+.drhp-button {
+  background-color: #f05537;
+  color: #fff;
+  font-weight: bold;
+}
+
+.company-name {
+  color: #414bea;
+}
+.company-card {
+  width: 30%;
+}
+
+@media (max-width: 767.98px) {
+  .company-card {
+    width: 80%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
