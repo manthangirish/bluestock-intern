@@ -1,4 +1,4 @@
-# Bluestock Frontend
+# Bluestock Internship Project
 
 This has website's frontend. Used Bootstrap.
 
